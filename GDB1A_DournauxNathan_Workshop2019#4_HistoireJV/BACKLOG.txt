@@ -1,0 +1,17 @@
+Priorité Haute 2. Création des assets (la DA est un aspect du sujet - ne pas négliger mais le proto marche quand même sans DA - stratégie laissée à ton entendement) ;
+Priorité Haute 3. Implémentation des assets (same as the above) 
+Priorité Moyenne 2. Améliorér /Débugger Level 1 (débugger = same as the above, améliorer = si du temps reste) ;
+Priorité Basse 1. Mise en place du sons (sans son ça parche quand même - sauf le son est un élément de GP)
+Priorité Basse 2. Peaufiner certains éléments de gameplay (polish, non prioritaire).
+Subsidiaire. Coder l’écran titre ;
+
+Kill :
+
+Priorité Critique 1. Créer un tutoriel et/ou un fichier avec les différents inputs (indispensable) ;
+Priorité Critique 2. Disperser les fragments de manettes dans chaque Levels (sinon, pas d'objectifs ?) ;
+Priorité Critique 3. Implémenter la mort / le retry (ou l'émuler par un message si le proto peut se permettre de continuer malgré une défaite - on comprend quand même);
+Priorité Haute 1. Coder les échelles (sauf si moyen de changer le LD pour ne pas avoir à s'en servir dans un premier temps - auquel cas priorité basse)
+Priorité Haute 4. Coder les fragments de manettes [Subsidiaire] avec compteur (on s'en fout du compteur dans 1 premier temps) ;
+Priorité Moyenne 1. Résoudre les principaux bugs (priorité haute si bugs = severities A ou B;
+Subsidiaire. Coder le “HUB” ;
+Subsidiaire. Finir le dernier level du jeu ;
